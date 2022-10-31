@@ -20,5 +20,3 @@ def Get_FileName_IN_Dir(path):
     # 将文件下名称写入到"文件list.txt"
     f.write(file_name)
     return file_name
-
-Get_FileName_IN_Dir(".\\")
